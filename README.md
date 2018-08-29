@@ -1,9 +1,9 @@
 # GET LIWC FEATURES 
 This project do 2 things:
 * First:  Using the nightmareJS to mimic user actions, which are:
-             * Go to LIWC website
-             * Type a text into the box in the website
-             * Click the "Analyze" button to receive the result of LIWC features from their server
+   * Go to LIWC website
+   * Type a text into the box in the website
+   * Click the "Analyze" button to receive the result of LIWC features from their server
 * Second: Create simple API, so that users or developers can get the "analyzed" result - LIWC features by passing the text as parameter
 
 # Prequisite
