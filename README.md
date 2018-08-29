@@ -12,4 +12,4 @@ You need to install NodeJs, Nightmarejs
 # How to run demo
 * Ensure all neccessary libraiesy to be installed.
 * Run "node test_basic_nightmare.js" to run Server on localhost:8877. You can adjust host and port in this file as well.
-* Goto the browser and call URL like that: "localhost:8877/?text=<Your-text-here>"
+* Goto the browser and call URL like that: "localhost:8877/?text=<Your - text - here>"
